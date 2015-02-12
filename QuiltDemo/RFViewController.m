@@ -27,7 +27,7 @@ int num = 0;
     [self.collectionView registerClass:[UICollectionViewCell class] forCellWithReuseIdentifier:@"cell"];
     
     RFQuiltLayout* layout = (id)[self.collectionView collectionViewLayout];
-    layout.direction = UICollectionViewScrollDirectionVertical;
+    layout.direction = UICollectionViewScrollDirectionHorizontal;// UICollectionViewScrollDirectionVertical;
     layout.blockPixels = CGSizeMake(75,75);
     
     [self.collectionView reloadData];

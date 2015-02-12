@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="RFQuiltLayoutXB/RFQuiltLayoutXB.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RFQuiltLayoutXB/StructsAndEnums.cs">
+    <Files>
+      <File FileName="RFQuiltLayoutXB/ApiDefinition.cs" Line="24" Column="24" />
+      <File FileName="RFQuiltLayoutXB/StructsAndEnums.cs" Line="24" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
